@@ -1,0 +1,6 @@
+1. git clone https://github.com/srinathmp77/genesis.git
+2. git checkout -b sfg
+3. git pull origin sfg 
+4. change any file 
+5. git add . and git commit -m "commit message"
+6. git push origin sfg 
